@@ -1,2 +1,6 @@
 # Melissa-Buranen-Resume
-Resume
+Portfolio
+
+Hello
+
+This was a way to display my skills in visual format.
